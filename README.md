@@ -1,2 +1,2 @@
 # Medical-Center-Mangement-System
-DBMS using SQL 
+Database management system using SQL 
